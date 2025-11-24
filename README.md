@@ -1,4 +1,4 @@
-# iodone
+# iodone OUTDATED MADE 4 YEARS AGO NOT USABLE FOR DISCORD ANYMORE
 How To Use 🔧
 In VSCode, Open the terminal(Ctrl+\ ) and clone this Repo.
 
